@@ -2,7 +2,4 @@ numpy
 pandas
 matplotlib
 ortools==7.7.7810 
-time
-io
 contextlib
-random
